@@ -10,4 +10,4 @@ ProMonitor lets you keep track of your learners’ academic progress, letting te
 
 ![pro monitor site](https://i.ytimg.com/vi/TiKyP7q6K3I/maxresdefault.jpg)
 ### **Why do we use it?**
-The college uses ProMonitor for notices, attendance, assessments, progress, and meetings - helping students access all the information needed in one place.
+The college uses ProMonitor for notices, attendance, assessments, progress, and meetings - helping students access all the information needed in one place. This is useful because having all of the important info easily accessible allows for less mistakes and helps students be more organised and punctual, improving the school experience greatly.
