@@ -1,4 +1,4 @@
-[Home](docs/home.md)  [Office 365](docs/office.md)  [ Pro-monitor ](docs/promonitor.md)  [Moodle](docs/moodle.md)  [My Email](docs/SomeTtuffontheMyEmailSection.md)
+[Home](docs/home.md)  [Office 365](docs/office.md)  [ Pro-monitor ](docs/promonitor.md)  [Moodle](docs/moodle.md)  [My Email](docs/email.md)
 
 # **ProMonitor**
 ## **What is it?**
